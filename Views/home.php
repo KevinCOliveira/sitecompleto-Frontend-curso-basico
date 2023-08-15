@@ -1,5 +1,4 @@
 <main>
-    
     <div class="container" >
             <div id="Carrosel" class="carousel slide" data-bs-ride="true">
                 <div class="carousel-indicators">
@@ -29,7 +28,6 @@
             </div>
         
         <div class=row>
-            <p>................</p>
         </div>
     </div>  
 </main>
