@@ -26,8 +26,20 @@
                     <span class="visually-hidden">Next</span>
                 </button>
             </div>
-        
-        <div class=row>
-        </div>
+            <div class="row">
+                <div class="col mt-4">
+                <p class="fw-medium"> O que há de novo </p>
+                <hr style="border: none; color: black;">
+                </div>
+                <div class="col">
+                </div>     
+            </div>
+            <div class="row">
+                <div class="col-5 mb-2">
+                    <div style="background:url(Img/Civic-Type-R-2023-traseira.jpg) center/cover no-repeat; height:20em;"></div>
+                </div>
+                <div class="col">
+                </div>     
+            </div>
     </div>  
 </main>
