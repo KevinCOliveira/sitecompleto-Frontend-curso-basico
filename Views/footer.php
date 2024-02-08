@@ -31,7 +31,7 @@
                 </div>    
                 <div class="row"> 
                     <div class="col-md-12 text-center">
-                        © 1996 - 2023. Todos direitos reservados a Editora GearHead S/A.
+                        © 2023 - 2024. Todos direitos reservados a Editora GearHead S/A.
                          Este material não pode ser publicado, transmitido por broadcast, 
                          reescrito ou redistribuído sem autorização.
                     </div>        
